@@ -1,0 +1,9 @@
+.home{
+    padding: 0 100px;
+    position: relative;
+}
+
+.home__services__cards{
+    display: flex;
+    padding: 50px 0;
+}
